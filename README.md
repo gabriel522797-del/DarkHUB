@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌑 DarkHUB — Universal Script
+# 🌑 DarkHUB - Universal Script
 
 **Um hub universal para Roblox, leve, organizado e poderoso — construído sobre a UI [Fluent](https://github.com/dawid-scripts/Fluent).**
 
